@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eugene-Koshelev
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me euqene27062006@gmail.com
 
